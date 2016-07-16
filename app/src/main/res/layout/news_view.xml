@@ -42,6 +42,7 @@
         android:layout_marginTop="5dp"
         android:textColor="#0044e2"
         android:textColorLink="#0008ff"
+        android:autoLink="web"
         android:textIsSelectable="false"
         android:textStyle="italic"/>
 
